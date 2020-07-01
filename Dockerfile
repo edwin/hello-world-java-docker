@@ -1,5 +1,7 @@
 FROM registry.access.redhat.com/ubi8/ubi-minimal:8.0
 
+MAINTAINER Muhammad Edwin < edwin at redhat dot com >
+
 LABEL BASE_IMAGE="registry.access.redhat.com/ubi8/ubi-minimal:8.0"
 LABEL JAVA_VERSION="11"
 
